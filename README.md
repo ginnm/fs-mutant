@@ -1,8 +1,8 @@
 # FS-mutant: A Few-Shot Learning Dataset for Protein Mutants Mining
 
 <div align="center">
-    <a href="https://github.com/ginnm/fs-mutant/">
-        <img width="200px" height="auto" src="https://github.com/ginnm/fs-mutant/blob/main/band.png>
+    <a href="https://github.com/ginnm/fs-mutant">
+        <img width="200px" height="auto" src="https://github.com/ginnm/fs-mutant/blob/main/band.png">
     </a>
 </div>
 
